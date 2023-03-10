@@ -1,15 +1,15 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮pradeep bot 2023 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮pradeepkumawat574@mail.com
+//▮WHATSAPP US : +91 2269645972
+//▮YOUTUBE CHANNELL: https://youtube.com/c/djpradeepkumawat
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING pradeep bot
 //┃THANKS TO DikaArdnt
 //┃BEHOLD THE NEW
 //┃
@@ -67,11 +67,11 @@ const zimbot = JSON.parse(fs.readFileSync('./database/zimbot.json'))
 //apikeys zvibhorani izvi
 const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
-//buat info zvibhorani zivi
+//buat info PRADEEP BOT
 limitawal = '100'
-botname = 'ZIM BOT INC'
-wm = 'ZIM BOT INC'
-global.reactmoji = '🇿🇼'
+botname = 'PRADEEP BOT'
+wm = 'PRADEEP BOT '
+global.reactmoji = 'AP'
 limitCount = setting.limit
 
 //read database
@@ -90,7 +90,7 @@ const dripsno = JSON.parse(fs.readFileSync('./database/autoblock.json'))
 const dripswelcome = JSON.parse(fs.readFileSync('./database/welcome.json'))
 
 
-//////created by zim-bot-inc
+//////created by PRADEEP BOT
 
 module.exports = ZimBotInc = async (ZimBotInc, m, chatUpdate, store) => {
     try {
